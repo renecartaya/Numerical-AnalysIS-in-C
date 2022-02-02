@@ -2,10 +2,9 @@
  *  rungekutta.c
  *
  *	Title:			Fourth-order Runge-Kutta Method
- *	Author:			Tristan Jehan
- *	Description:	Runge-Kutta method is used to integrate a simple harmonic oscillator y: + y = 0
- *					The solution for this Ordinary Differential Equation is y = cos(t)
- *	Date:			03/07/00	
+ *	Description:	        Runge-Kutta method implemented to solve the simple harmonic oscillator y: + y = 0
+ *				The solution for this Ordinary Differential Equation is y = cos(t)
+ *	Date:			03/07/10	
  *	
  */
 
